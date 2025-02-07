@@ -17,5 +17,4 @@
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onokou&theme=vue)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onokou&show_icons=true)
- 
+
